@@ -1,2 +1,2 @@
-# cs230
+# CS 230
 Computing and Social Responsibility
